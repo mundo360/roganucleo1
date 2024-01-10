@@ -1,0 +1,169 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_F3F2C784_EA8A_2BEC_41E6_0501301962A4.source = https://api.whatsapp.com/send?phone=556120250900&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
+LinkBehaviour_FFFE9813_EA8E_24E4_41C5_8F127021BCB7.source = https://api.whatsapp.com/send?phone=556120250900&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
+LinkBehaviour_D4F7A172_DB7E_DE87_41E8_A316B0BE0DAC.source = https://api.whatsapp.com/send?phone=556120250900&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
+LinkBehaviour_F0228BC5_EA96_7B6C_41E0_E300A263F766.source = https://api.whatsapp.com/send?phone=556120250900&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
+LinkBehaviour_F005B277_EA8E_252B_41DC_F226D1BD7276.source = https://rogacionista.com/brasilia/
+LinkBehaviour_FE557B6E_EA8B_FB3C_41E6_1983EE46CCED.source = https://rogacionista.com/brasilia/
+WebFrame_F189646D_EAFA_2D3C_41E8_6215A5EE4ECC.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.230311360541!2d-47.97546087486881!3d-15.844488084802878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a2e26f53f7331%3A0xbce999acfedde32e!2sCol%C3%A9gio%20Rogacionista%20-%20N%C3%BAcleo%201!5e0!3m2!1spt-BR!2sbr!4v1704832272483!5m2!1spt-BR!2sbr
+WebFrame_CA5A140C_EA8E_ECFD_41E5_031EC6A3EE80.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.230311360541!2d-47.97546087486881!3d-15.844488084802878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a2e26f53f7331%3A0xbce999acfedde32e!2sCol%C3%A9gio%20Rogacionista%20-%20N%C3%BAcleo%201!5e0!3m2!1spt-BR!2sbr!4v1704832272483!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_F005A277_EA8E_252B_41C1_FACD455E5F45.source = https://www.instagram.com/fight_guara/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_DBB5D5F2_F30D_517C_41D8_FC7BBF7F70F5.text = Instruções
+
+## Media
+
+### Audio
+audiores_C943D573_EFB0_9DC9_41D4_41DD9CA67EA5.mp3Url = media/audio_CDABDF21_EFB1_6D46_41EC_A7C8098C9052_pt.mp3
+
+### Image
+imlevel_DF72B437_F305_D6E3_41C3_F8D1A9EE0950.url = media/panorama_F87947A2_EFD1_BD4B_41E5_D9E5F6140401_HS_ciy9zrby_pt.png
+
+### Title
+panorama_F87947A2_EFD1_BD4B_41E5_D9E5F6140401.label = Foto-N1-edit
+panorama_F7C59D2D_EFD1_AD59_41EC_2B8BDADED934.label = Foto-N1.1-edit
+panorama_F87BFBE2_EFD1_94CB_41EC_9C3B05FA8F97.label = Foto-N10-edit
+panorama_F87A16E1_EFD1_7CC9_41C7_ABA73397E70A.label = Foto-N11-edit
+panorama_F87B61D3_EFD0_94C9_4169_623EF01F67EB.label = Foto-N12-edit
+panorama_F87B5C1C_EFD0_937F_41D6_CBEFFF2EC303.label = Foto-N14-edit
+panorama_F87BD6FC_EFD0_BCBE_41E6_0E6A7F014B62.label = Foto-N15-edit
+panorama_F87B0199_EFD0_9579_41C6_AC68C72D14EA.label = Foto-N16-edit
+panorama_F87BFC14_EFD0_934F_41D4_5D2A679947BE.label = Foto-N17-edit
+panorama_F87B5619_EFD0_FF79_41DF_9B889A33D85F.label = Foto-N18-edit
+panorama_F87BC042_EFD0_93CA_41E0_CA78C9BAC37D.label = Foto-N19-edit
+panorama_F87BA20D_EFD1_9759_41EC_8F9FEAF0B692.label = Foto-N2-edit
+panorama_F87B2A59_EFD0_97F9_41E2_B4B8107364F5.label = Foto-N20-edit
+panorama_F87BE4D3_EFD0_BCC8_41C4_66B4B8D25C7F.label = Foto-N26-edit
+panorama_F87B3F50_EFD0_ADC6_4192_33770AF5F49C.label = Foto-N27-edit
+panorama_F87BB9A8_EFD0_9547_41E2_7C1E4E7E8E6A.label = Foto-N28-edit
+panorama_F87A4456_EFD3_73CB_41E2_BEF2AF2AEBB3.label = Foto-N29-edit
+panorama_F87A2FCB_EFD3_6CD9_41E2_4E1FB482804F.label = Foto-N30-edit
+panorama_F87B3537_EFD3_BD49_41E8_C8D6A014D4E5.label = Foto-N31-edit
+panorama_F87B3A9B_EFD3_9779_41EA_9E3B1C03AE16.label = Foto-N31.1-edit
+panorama_F87BFF70_EFD3_ADC6_41DD_E7AA7DE0B75A.label = Foto-N32-edit
+panorama_F87A3A70_EFD3_97C7_41DA_F21299E7CA0A.label = Foto-N33-edit
+panorama_F87B152F_EFD3_FD59_41E4_947E347D9F8E.label = Foto-N34-edit
+panorama_F87B5F25_EFD3_ED49_41C1_7AEE29236376.label = Foto-N35-edit
+panorama_F87B493C_EFD3_95BF_41E6_2F1B8EE61F19.label = Foto-N36-edit
+panorama_F87AE354_EFD3_B5CE_41D0_5BF5F45BD96B.label = Foto-N37-edit
+panorama_F87B085B_EFD3_93F9_41D6_7ABB10FF5ED8.label = Foto-N38-edit
+panorama_F87B7DDE_EFD3_ACFB_41EA_F7F33258448F.label = Foto-N38.1-edit
+panorama_F87B335A_EFD3_75FB_41E6_60DC73B53F81.label = Foto-N39-edit
+panorama_F87A9C9A_EFD1_937B_41E5_82F1361F303D.label = Foto-N4-edit
+panorama_F87AFE3C_EFD3_6FBF_41DA_EEFA5F7660C1.label = Foto-N40-edit
+panorama_F8789885_EFD0_934E_41E9_50E8103942A9.label = Foto-N41-edit
+panorama_F878D2BE_EFD0_B4BA_41E2_49576502955B.label = Foto-N42-edit
+panorama_F8791D8A_EFD0_AD5A_41E3_A3A3449353F4.label = Foto-N43-edit
+panorama_F8790828_EFD0_9347_41EA_7D587FBAA082.label = Foto-N44-edit
+panorama_F878C271_EFD0_F7C9_41A8_51A732D5EB15.label = Foto-N45-edit
+panorama_F879FD93_EFD0_ED49_41A0_26496EB66E78.label = Foto-N46-edit
+panorama_F878B63D_EFD0_9FB9_41EC_75DC1786A70F.label = Foto-N47-edit
+panorama_F8791EA3_EFD0_AF49_41E1_53C838A715C3.label = Foto-N48-edit
+panorama_F8797717_EFD0_BD49_41EA_2D673C029A9F.label = Foto-N49-edit
+panorama_F87A86C2_EFD1_FCCB_41EA_3B070AAFBA8F.label = Foto-N5-edit
+panorama_F87AB1B1_EFD1_9549_41AA_29C75953077D.label = Foto-N6-edit
+panorama_F87AFBFB_EFD1_94B9_41D7_9E43A10625A0.label = Foto-N7-edit
+panorama_F87B06C9_EFD1_BCD9_41D0_2A67D4034862.label = Foto-N8-edit
+panorama_F87AA102_EFD1_954B_41E2_A8BE04105B19.label = Foto-N9-edit
+
+## Skin
+
+### Button
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.label = 1º ANDAR >
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.label = 1º ANDAR >
+Button_F33EE461_EFFF_93C9_41E6_65180170CF48.label = 2º ANDAR >
+Button_CF1F4498_EFD3_7346_41E2_251D50B2AF49_mobile.label = 2º ANDAR >
+Button_5C1EE375_4F3B_D701_41C9_0ED79D773CB5.label = ACESSO 1º ANDAR
+Button_F11C268C_EFD3_9F5F_41B1_92E7C39A4A23_mobile.label = ACESSO 2º ANDAR
+Button_F2E0B947_EFF0_95CA_41E3_A5769B10BEC8.label = ACESSO 2º ANDAR
+Button_5C1EA374_4F3B_D707_41BE_00FEEB6D514B_mobile.label = ACESSOS 1º ANDAR
+Button_5C1E8374_4F3B_D707_41C8_C8242B461C37_mobile.label = BIBLIOTECA
+Button_5C1EA374_4F3B_D707_41BE_00FEEB6D514B.label = BIBLIOTECA
+Button_5AB86F7A_40D3_00DE_41BD_D1B9EFCA70D1.label = ENTRADA
+Button_5AB86F7A_40D3_00DE_41BD_D1B9EFCA70D1_mobile.label = ENTRADA
+Button_F3F2F784_EA8A_2BEC_41D1_6FDDB5B66C01.label = Falar via Whatsapp
+Button_D4F6B171_DB7E_DE85_4195_CF8B2979C1F8.label = Fale Conosco (Whatsapp)
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.label = LAB. INFORMÁTICA
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1.label = LAB. INFORMÁTICA
+Button_F0E3368E_EFD3_9F5B_41E5_771B20B86A25_mobile.pressedLabel = Lorem Ipsum
+Button_F2E0B947_EFF0_95CA_41E3_A5769B10BEC8.pressedLabel = Lorem Ipsum
+Button_5C1EE375_4F3B_D701_41C9_0ED79D773CB5.pressedLabel = Lorem Ipsum
+Button_5C1EE375_4F3B_D701_41C9_0ED79D773CB5_mobile.pressedLabel = Lorem Ipsum
+Button_5AB89F7B_40D3_00DE_41CB_5B6BD4AD03BA_mobile.label = PARQUINHO
+Button_5AB89F7B_40D3_00DE_41CB_5B6BD4AD03BA.label = PARQUINHO
+Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D_mobile.label = PÁTIO EXTERNO
+Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D.label = PÁTIO EXTERNO
+Button_5AB87F7A_40D3_00DE_41AA_215C597649E9.label = PÁTIO INTERNO
+Button_5AB87F7A_40D3_00DE_41AA_215C597649E9_mobile.label = PÁTIO INTERNO
+Button_F27FA6C5_D64E_2221_41E0_66D6D6A35438_mobile.label = QUADRA POLIESPORTIVA
+Button_F27FA6C5_D64E_2221_41E0_66D6D6A35438.label = QUADRA POLIESPORTIVA
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.pressedLabel = Reception
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1.pressedLabel = Reception
+Button_F0E0168D_EFD3_9F59_41E5_D47F87054447_mobile.label = SALA DE ARTES
+Button_F29A0948_EFF0_95C6_41E6_699D2E870058.label = SALA DE ARTES
+Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1_mobile.label = SALA DE AULA
+Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1.label = SALA DE AULA
+Button_5C1EE375_4F3B_D701_41C9_0ED79D773CB5_mobile.label = SALA DE BALÉ
+Button_5C1E8374_4F3B_D707_41C8_C8242B461C37.label = SALA DE BALÉ
+Button_F0E3368E_EFD3_9F5B_41E5_771B20B86A25_mobile.label = SALA DE JUDÔ
+Button_F29AD949_EFF0_95C6_41D6_A6D491DF7617.label = SALA DE JUDÔ
+Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815_mobile.label = SALA JARDIM
+Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815.label = SALA JARDIM
+Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA_mobile.label = SECRETARIA
+Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA.label = SECRETARIA
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = TÉRREO>
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = TÉRREO>
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_pt.png
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_pt.png
+Image_C2814E9B_DBBA_4384_41E3_567E965F241C.url = skin/Image_C2814E9B_DBBA_4384_41E3_567E965F241C_pt.png
+Image_C2817E9B_DBBA_4384_41E7_0A8612C266C4.url = skin/Image_C2817E9B_DBBA_4384_41E7_0A8612C266C4_pt.png
+Image_D4F60171_DB7E_DE85_41E3_B1B45EAC5964.url = skin/Image_D4F60171_DB7E_DE85_41E3_B1B45EAC5964_pt.png
+Image_DF2A33C4_F305_31A5_41CE_BE6A684C2E7E.url = skin/Image_DF2A33C4_F305_31A5_41CE_BE6A684C2E7E_pt.png
+Image_F006E277_EA8E_252B_41DD_F1AD4F5B116B.url = skin/Image_F006E277_EA8E_252B_41DD_F1AD4F5B116B_pt.png
+Image_F0237BC5_EA96_7B6C_41E2_7C0AF0D63C73.url = skin/Image_F0237BC5_EA96_7B6C_41E2_7C0AF0D63C73_pt.png
+Image_F3F11784_EA8A_2BEC_41E8_56B034DB9701.url = skin/Image_F3F11784_EA8A_2BEC_41E8_56B034DB9701_pt.png
+Image_FE52EB6E_EA8B_FB3C_41E4_A399686222F3.url = skin/Image_FE52EB6E_EA8B_FB3C_41E4_A399686222F3_pt.png
+Image_FFFE1813_EA8E_24E4_41EA_3BE37612053D.url = skin/Image_FFFE1813_EA8E_24E4_41EA_3BE37612053D_pt.png
+
+### Label
+Label_FE52FB6E_EA8B_FB3C_41E5_44687A5B9D60.text = Deseja abrir SITE Principal ?
+Label_F006D277_EA8E_252B_41D8_77AD1CFE528F.text = Deseja abrir o SITE Principal?
+Label_FFFEE813_EA8E_24E4_41C2_C571209E1E61.text = Deseja atendimento via WHATSAPP ?
+Label_FE553B6E_EA8B_FB3C_41D9_FD2A4B5341D2.text = NÃO
+Label_FFFED813_EA8E_24E4_41C6_456B88264571.text = NÃO
+Label_F0062277_EA8E_252B_41E9_D718170A3232.text = NÃO
+Label_F0233BC5_EA96_7B6C_41D0_0C6C442A2ABA.text = NÃO
+Label_F0230BC5_EA96_7B6C_41E4_DCF84EF2A23B.text = Realizar contato Whatsapp?
+Label_F0231BC5_EA96_7B6C_41B9_8014EBF910C3.text = SIM
+Label_FFFEF813_EA8E_24E4_41E5_07CDDCE1E561.text = SIM
+Label_FE550B6E_EA8B_FB3C_41EA_D8809F589736.text = SIM
+Label_F006C277_EA8E_252B_41E2_14E05A6E2542.text = SIM
+Label_D7602EEE_F3FD_5365_41ED_4959C8BF634C.text = UNIDADE NÚCLEO I
+Label_D2C88F9B_F303_F1A3_41C8_6E4BEBCA7624.text = UNIDADE NÚCLEO I
+Label_F0061277_EA8E_252B_41E9_F856DB46005B.text = rogacionista.com/brasilia/
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:139%;text-align:left;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;">Telefone: (61) 3301-5737</SPAN></SPAN></DIV><DIV STYLE="line-height:139%;text-align:left;font-size:9px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:9px;">rogabrasilia@roga.com.br EQ 32/34 Lote D, Guará II, Brasília - DF, 71065-325</SPAN></SPAN></DIV></div>
+HTMLText_D69B082E_DB7A_4E9C_41C9_EC56AA37F891_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Oswald Regular';">Lista de Fotos</SPAN><SPAN STYLE="font-size:2.34vh;font-family:'Bebas Neue Bold';"><B> </B></SPAN></SPAN></DIV></div>
+HTMLText_D69B082E_DB7A_4E9C_41C9_EC56AA37F891.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.341534008683071vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Bebas Neue Bold';">Lista de fotos :</SPAN></SPAN></DIV></div>
+HTMLText_F189046D_EAFA_2D3C_41E4_5E96B40D95A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
+HTMLText_D4F6C171_DB7E_DE85_41A7_C96D42960FD8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:31px;"><B>Colégio Rogacionista</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:19px;font-family:'Oswald Regular';">Email: rogabrasilia@roga.com.br</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:19px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:19px;font-family:'Oswald Regular';">Tesouraria:</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:19px;font-family:'Oswald Regular';">(61)2025-0900</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:19px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:19px;font-family:'Oswald Regular';">Secretaria: </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:19px;font-family:'Oswald Regular';">(61)2025-0920</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:19px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:19px;font-family:'Oswald Regular';">Direção Local/ Administrativa: </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:19px;font-family:'Oswald Regular';">(61) 2025 0905 </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_F3F2E784_EA8A_2BEC_41C2_483C7A12129A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:13px;"><B>Email: </B></SPAN><SPAN STYLE="font-size:13px;"><B>rogabrasilia@roga.com.br</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Direção Local/Administrativa</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>(61) 2025 0905 </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Secretaria</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>(61) 2025 0920 </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>secretaria@roga.com.br</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Tesouraria</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>(61) 2025 0900 // 0919</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>financeiro@roga.com.br </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_DEA76D21_EB96_3F27_41D5_736643358687.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_FD7E9CF8_EABA_1D24_41CD_D45236780ECD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Colégio Rogacionista Núcleo I
